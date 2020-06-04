@@ -1,4 +1,4 @@
 # solar-calculator
 
 # Demo
-https://justinbalaguer.com/apps/solar-calculator/
+https://justinbalaguer.github.io/solar-calculator/
